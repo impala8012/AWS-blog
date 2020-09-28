@@ -10,7 +10,7 @@
       </div>
       <ul class="navbar__list">
         <div>
-          <li><a href="#">文章列表</a></li>
+          <li><a href="post_list.php">文章列表</a></li>
           <li><a href="#">分類專區</a></li>
           <li><a href="about.php">關於我</a></li>
         </div>
